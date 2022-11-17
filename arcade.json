@@ -1,0 +1,25 @@
+{
+	"name": "Grape Collector",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"unique-id": "h106tqbp72g",
+	"viewport-width": 854,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "landscape",
+	"c2version": "244",
+	"c3version": "r317.2",
+	"ife": true,
+	"used-plugins": [
+		"Mouse",
+		"TiledBg",
+		"Text",
+		"Sprite"
+	],
+	"used-behaviors": [
+		"Pathfinding"
+	]
+}
